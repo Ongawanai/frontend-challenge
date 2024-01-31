@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/frontend-challenge/static/css/main.90f71043.css",
+    "main.js": "/frontend-challenge/static/js/main.e48ac0ff.js",
+    "static/media/Roboto-Regular.ttf": "/frontend-challenge/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
+    "static/media/heartHollow.svg": "/frontend-challenge/static/media/heartHollow.c5ed73782b8e8592c96f31785d4757e8.svg",
+    "index.html": "/frontend-challenge/index.html",
+    "static/media/clickedHeart.svg": "/frontend-challenge/static/media/clickedHeart.c883137034a3f16efc1eab4e3904a94a.svg",
+    "static/media/hoveredHeart.svg": "/frontend-challenge/static/media/hoveredHeart.eedd1b13564049457a2e4c0f70ae850b.svg",
+    "main.90f71043.css.map": "/frontend-challenge/static/css/main.90f71043.css.map",
+    "main.e48ac0ff.js.map": "/frontend-challenge/static/js/main.e48ac0ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90f71043.css",
+    "static/js/main.e48ac0ff.js"
+  ]
+}
